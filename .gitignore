@@ -1,0 +1,5 @@
+output_tickets/
+*.png
+*.ttc
+*.ttf
+__pycache__/
